@@ -1,20 +1,12 @@
 # Gyanankur-TF-IDF-Assignment-1
 
-Absolutely, Gyanankur — thanks for sharing the code! Based on the ten docs sentences in your tfidf.py file and your earlier request, here’s a fully aligned README.md in markdown that matches each image to the sentence it represents.
-
-This version uses your sentence content as identifiers (not arbitrary numbers like “Travel 14”) and clearly explains each image’s purpose in context. Let’s make this shine.
-
----
-
-`markdown
-
-🧠 TF-IDF Accuracy Checker
+# 🧠 TF-IDF Accuracy Checker
 
 An interactive Streamlit application that evaluates the accuracy of TF-IDF keyword extraction compared to manually annotated ground truth. This project showcases how term frequency–inverse document frequency behaves across diverse sentence structures.
 
 ---
 
-📁 Repository Structure
+# 📁 Repository Structure
 
 ```bash
 Gyanankur-TF-IDF-Assignment-1/
@@ -50,7 +42,7 @@ Displays the full UI layout where users select sentences, view top TF-IDF keywor
 ### ✈️ Travel — `IMG_20250712_WA0014.jpg`
 > "Travel explores places and creates new memories"
 
-![Travel Sentence](outputs/IMG_20250712_WA0014.jpg)
+![Travel Sentence](outputs/IMG-20250712-WA0014.jpg)
 
 Highlights the exploration-themed sentence with keyword focus on `travel`, `places`, and `memories`.
 
@@ -59,7 +51,7 @@ Highlights the exploration-themed sentence with keyword focus on `travel`, `plac
 ### ☕ Coffee — `IMG_20250712_WA0015.jpg`
 > "Coffee increases alertness during early mornings"
 
-![Coffee Sentence](outputs/IMG_20250712_WA0015.jpg)
+![Coffee Sentence](outputs/IMG-20250712-WA0015.jpg)
 
 Visualizes caffeine-associated keyword scores like `coffee`, `alertness`, and `mornings`.
 
@@ -68,7 +60,7 @@ Visualizes caffeine-associated keyword scores like `coffee`, `alertness`, and `m
 ### 📚 Books — `IMG_20250712_WA0016.jpg`
 > "Books contain stories, knowledge and inspiration"
 
-![Books Sentence](outputs/IMG_20250712_WA0016.jpg)
+![Books Sentence](outputs/IMG-20250712-WA0016.jpg)
 
 Displays educational keywords (`books`, `stories`, `knowledge`) and their TF-IDF rankings.
 
@@ -77,7 +69,7 @@ Displays educational keywords (`books`, `stories`, `knowledge`) and their TF-IDF
 ### 🐍 Python — `IMG_20250712_WA0017.jpg`
 > "Python helps automate repetitive coding tasks"
 
-![Python Sentence](outputs/IMG_20250712_WA0017.jpg)
+![Python Sentence](outputs/IMG-20250712-WA0017.jpg)
 
 Analyzes technical language and shows top TF-IDF terms such as `python`, `automate`, and `tasks`.
 
@@ -86,7 +78,7 @@ Analyzes technical language and shows top TF-IDF terms such as `python`, `automa
 ### 🌞 Sunlight — `IMG_20250712_WA0018.jpg`
 > "Sunlight provides warmth, light and supports growth"
 
-![Sunlight Sentence](outputs/IMG_20250712_WA0018.jpg)
+![Sunlight Sentence](outputs/IMG-20250712-WA0018.jpg)
 
 Illustrates natural elements, showing high TF-IDF weights for `sunlight`, `warmth`, and `growth`.
 
@@ -95,11 +87,11 @@ Illustrates natural elements, showing high TF-IDF weights for `sunlight`, `warmt
 ### 🐶 Dogs — `IMG_20250712_WA0019.jpg`
 > "Dogs are loyal pets and playful companions"
 
-![Dogs Sentence](outputs/IMG_20250712_WA0019.jpg)
+![Dogs Sentence](outputs/IMG-20250712-WA0019.jpg)
 
 Highlights sentiment-rich terms like `dogs`, `loyal`, and `pets` in the final TF-IDF results.
 
-🧪 Requirements
+# 🧪 Requirements
 
 `txt
 streamlit>=1.24.0
@@ -109,21 +101,16 @@ streamlit>=1.24.0
 
 ---
 
-⚙️ License
+# ⚙️ License
 
 Licensed under the MIT License  
 © 2025 Gyanankur23
 
 ---
 
-📌 Repository
+# 📌 Repository
 
 🔗 Gyanankur-TF-IDF-Assignment-1  
 Explore sentence-level TF-IDF scoring and keyword accuracy using a clean and minimal UI.
 
 ---
-`
-
----
-
-Let me know if you want a Hugging Face–ready version with metadata front matter, or I can help write a LinkedIn showcase with carousel formatting too. This project is looking crisp, bro 🔥📊💬
