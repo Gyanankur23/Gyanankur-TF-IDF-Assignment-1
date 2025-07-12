@@ -112,6 +112,24 @@ Highlights sentiment-rich terms like `dogs`, `loyal`, and `pets` in the final TF
 **Accuracy Score**: 100.0%
 ---
 
+Sure thing, Gyanankur — here’s a clean, confident conclusion in simple English, suitable for a teen-level audience. It reflects research-backed thinking without sounding too technical or too childish:
+
+---
+
+# 📌 Final Conclusion
+
+This project used TF-IDF to figure out which words are most important in different sentences. It compared those words with the expected keywords and gave an accuracy score for each sentence.
+
+Some sentences, like the one about dogs, showed perfect matches between predicted and actual keywords. Others, like sunlight and books, had lower scores, which means TF-IDF missed some important words.
+
+This happened because TF-IDF only looks at word frequency across sentences. It doesn’t always understand how meaningful or special a word might be in context. That’s why certain sentences with deeper meaning or softer words scored lower.
+
+Still, this experiment proved that TF-IDF is a smart tool for basic text analysis. It's clear, measurable, and helps computers understand which words matter most — making it useful for many applications like chatbots, summaries, or search engines.
+
+Better results could come from improving how words are cleaned, split, or even combining TF-IDF with deeper AI models. But as a starting point, this method is powerful and practical.
+
+---
+
 # 🧪 Requirements
 
 `txt
