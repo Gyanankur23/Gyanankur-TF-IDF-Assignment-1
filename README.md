@@ -98,7 +98,6 @@ Illustrates natural elements, showing high TF-IDF weights for `sunlight`, `warmt
 **Top TF-IDF Keywords**: sunlight, provides, warmth  
 **Expected Keywords**: sunlight, light, warmth, growth  
 **Accuracy Score**: 25.0%
-
 ---
 
 ### 🐶 Dogs — `IMG_20250712_WA0019.jpg`
@@ -111,7 +110,6 @@ Highlights sentiment-rich terms like `dogs`, `loyal`, and `pets` in the final TF
 **Top TF-IDF Keywords**: dogs, loyal, pets  
 **Expected Keywords**: dogs, loyal, pets  
 **Accuracy Score**: 100.0%
-
 ---
 
 # 🧪 Requirements
