@@ -46,6 +46,9 @@ Displays the full UI layout where users select sentences, view top TF-IDF keywor
 
 Highlights the exploration-themed sentence with keyword focus on `travel`, `places`, and `memories`.
 
+**Top TF-IDF Keywords**: travel, explores, places  
+**Expected Keywords**: travel, places, memories, explores  
+**Accuracy Score**: 75.0%
 ---
 
 ### ☕ Coffee — `IMG_20250712_WA0015.jpg`
@@ -55,6 +58,9 @@ Highlights the exploration-themed sentence with keyword focus on `travel`, `plac
 
 Visualizes caffeine-associated keyword scores like `coffee`, `alertness`, and `mornings`.
 
+**Top TF-IDF Keywords**: coffee, increases, alertness  
+**Expected Keywords**: coffee, alertness, mornings  
+**Accuracy Score**: 66.67%
 ---
 
 ### 📚 Books — `IMG_20250712_WA0016.jpg`
@@ -64,6 +70,9 @@ Visualizes caffeine-associated keyword scores like `coffee`, `alertness`, and `m
 
 Displays educational keywords (`books`, `stories`, `knowledge`) and their TF-IDF rankings.
 
+**Top TF-IDF Keywords**: books, contain, stories  
+**Expected Keywords**: books, stories, knowledge  
+**Accuracy Score**: 33.33%
 ---
 
 ### 🐍 Python — `IMG_20250712_WA0017.jpg`
@@ -73,6 +82,10 @@ Displays educational keywords (`books`, `stories`, `knowledge`) and their TF-IDF
 
 Analyzes technical language and shows top TF-IDF terms such as `python`, `automate`, and `tasks`.
 
+
+**Top TF-IDF Keywords**: python, automate, repetitive  
+**Expected Keywords**: python, automate, coding, tasks  
+**Accuracy Score**: 50.0%
 ---
 
 ### 🌞 Sunlight — `IMG_20250712_WA0018.jpg`
@@ -82,6 +95,10 @@ Analyzes technical language and shows top TF-IDF terms such as `python`, `automa
 
 Illustrates natural elements, showing high TF-IDF weights for `sunlight`, `warmth`, and `growth`.
 
+**Top TF-IDF Keywords**: sunlight, provides, warmth  
+**Expected Keywords**: sunlight, light, warmth, growth  
+**Accuracy Score**: 25.0%
+
 ---
 
 ### 🐶 Dogs — `IMG_20250712_WA0019.jpg`
@@ -90,6 +107,12 @@ Illustrates natural elements, showing high TF-IDF weights for `sunlight`, `warmt
 ![Dogs Sentence](outputs/IMG-20250712-WA0019.jpg)
 
 Highlights sentiment-rich terms like `dogs`, `loyal`, and `pets` in the final TF-IDF results.
+
+**Top TF-IDF Keywords**: dogs, loyal, pets  
+**Expected Keywords**: dogs, loyal, pets  
+**Accuracy Score**: 100.0%
+
+---
 
 # 🧪 Requirements
 
