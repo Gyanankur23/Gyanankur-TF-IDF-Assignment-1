@@ -10,7 +10,9 @@ An interactive Streamlit application that evaluates the accuracy of TF-IDF keywo
 
 ```bash
 Gyanankur-TF-IDF-Assignment-1/
-├── tfidf.py                # Main Streamlit app script
+├── tfidf.py          # Main Streamlit app script
+|———colab notebook/
+    |———Gyanankur 202405005 TFIDF Assignment.pdf #ipynb file
 ├── requirements.txt        # Required Python packages
 ├── README.md               # Documentation and visual guide
 └── outputs/                # Image results with sentence mapping
